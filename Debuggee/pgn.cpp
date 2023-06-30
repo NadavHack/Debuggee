@@ -1,6 +1,12 @@
 #include "defines.h"
 #include "debuggie.h"
 
+/*
+This debugger was originaly created as a school assesment
+
+All of the code here was created and produced by : Nadav Cohen
+Enjoy learning how a debugger is made :D
+*/
 
 debuggie dbg; // Initiating a Debugger Instance, the constructor is called automatically
 
